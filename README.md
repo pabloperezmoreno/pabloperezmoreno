@@ -1,6 +1,6 @@
 ## Pablo Pérez Moreno
 
-IT Infrastructure & Cloud in the making. After several years leading teams and administering
+IT Infrastructure & Cloud in the making. After several years working in revenue enviroments, leading a teamfor two years and administering
 data-driven SaaS platforms, I'm transitioning full-time into systems, networking and cloud.
 
 - Studying **ASIR** (Higher Technician in Networked Systems Administration).
